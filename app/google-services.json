@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633546872864",
+    "firebase_url": "https://ocd-management-app.firebaseio.com",
+    "project_id": "ocd-management-app",
+    "storage_bucket": "ocd-management-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633546872864:android:b2e2ac33adffb53ff4c445",
+        "android_client_info": {
+          "package_name": "ritesh.ahlawat.ocdmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633546872864-sr3cce9n8vhqcsl151mppih4fdgq5i7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpPpthCzQc3x2NuF5-mX6RDAP_e86Yn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633546872864-sr3cce9n8vhqcsl151mppih4fdgq5i7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/top_bar_help_button"
+        android:title="Help"
+        android:contentDescription="Click to get help and learn more about Thoughtless"
+        />
+    <item
+        android:id="@+id/top_bar_logout_button"
+        android:title="Logout"
+        android:contentDescription="Click to logout"
+        />
+</menu>

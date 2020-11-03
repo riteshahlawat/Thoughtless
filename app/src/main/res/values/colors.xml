@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="error_color">#B00020</color>
+
+
+    <color name="primary_variant_color">#3700B3</color>
+    <color name="secondary_variant_color">#018786</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="color_on_primary">#FFFFFF</color>
+    <color name="color_on_secondary">#000000</color>
+    <color name="color_on_background">#000000</color>
+    <color name="color_on_error">#FFFFFF</color>
+    <color name="mcolor_on_surface">#000000</color>
+
+
+</resources>

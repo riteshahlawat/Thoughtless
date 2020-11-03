@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Main">
+        <menu>
+            <item
+                android:title="Home"
+                android:checkable="true"
+                android:id="@+id/home_menu_item"
+                android:icon="@drawable/ic_launcher_foreground" />
+            <item
+                android:title="Forums"
+                android:checkable="true"
+                android:id="@+id/forums_menu_item"
+                android:icon="@drawable/ic_launcher_foreground" />
+            <item
+                android:title="Social Media Check"
+                android:checkable="true"
+                android:id="@+id/social_media_check_menu_item"
+                android:icon="@drawable/ic_launcher_foreground" />
+            <item
+                android:title="Video Check"
+                android:checkable="true"
+                android:id="@+id/video_check_menu_item"
+                android:icon="@drawable/ic_launcher_foreground" />
+        </menu>
+    </item>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:title="User Settings"
+                android:checkable="true"
+                android:id="@+id/user_settings_menu_item"
+                android:icon="@drawable/ic_launcher_foreground" />
+            <item
+                android:title="App Settings"
+                android:checkable="true"
+                android:id="@+id/app_settings_menu_item"
+                android:icon="@drawable/ic_launcher_foreground" />
+        </menu>
+    </item>
+</menu>
